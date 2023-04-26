@@ -1,3 +1,38 @@
-#pic {
+/* #pic {
     background-color: aqua;
+} */
+
+#bio{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    color:whitesmoke;
+    padding: 20px;
+    margin-bottom: 25px;
+    background-color: rgba(0, 0, 0, .51);
+}
+    #bio{
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        padding: 10px;
+
+}
+#bio> *{
+    flex: 1;
+}
+#pic{
+    width: 500px;
+    height: 300px;
+    /* border-style: outset; */
+
+} 
+@media screen and(max-width:768px) {
+    #pic img {
+        width: 100%;
+}
+}
+#bio h2{
+    font-size: 32px;
+    margin-bottom: 20px;
 }
