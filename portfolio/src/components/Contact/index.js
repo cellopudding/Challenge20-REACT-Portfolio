@@ -1,17 +1,18 @@
 import React from 'react'
+import "./contact.css"
 import { Form, Input, TextArea, Button } from 'semantic-ui-react'
 import emailjs from 'emailjs-com'
 import Swal from 'sweetalert2'
 
 const SERVICE_ID = "service_4kan5a9"
 const TEMPLATE_ID = "template_kakbibr"
-const USER_ID = "mOHBaLWFK8F_baUhk"
+const PUBLIC_KEY = "mOHBaLWFK8F_baUhk"
 
 
 export default function Contact() {
   const handleOnSubmit = (e) => {
     e.preventDefault()
-    emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.target, USER_ID)
+    emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.target, PUBLIC_KEY)
       .then((result) => {
         console.log(result.text);
         Swal.fire({
@@ -33,6 +34,7 @@ export default function Contact() {
     <>
     <div class='contactwrapper'>
      <div class='contact'>
+      <h1 class='headings'>CONTACT</h1>
       <Form onSubmit={handleOnSubmit}>
         <Form.Field
           id='form-input-control-email'
