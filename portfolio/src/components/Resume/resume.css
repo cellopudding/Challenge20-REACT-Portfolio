@@ -1,0 +1,15 @@
+#resumewrapper{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    color:whitesmoke;
+    padding: 20px;
+    margin-bottom: 25px;
+    background-color: rgba(0, 0, 0, .51);
+}
+#resumepic{
+    width: 500px;
+    height: 300px;
+    
+}
