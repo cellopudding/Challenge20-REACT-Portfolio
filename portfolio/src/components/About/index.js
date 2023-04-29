@@ -4,10 +4,12 @@ import "./about.css"
 export default function About() {
   return (
     <>
-     <div id="pic">
+     <div class="about">
         <h1 class ="headings">ABOUT ME</h1>
-          <div class="aboutmewrapper">
-          <img src={AboutImage} alt="about me pic"/>
+        <div class="aboutmewrapper">
+          
+          <img id="pic" src={AboutImage} alt="about me pic"/>
+          </div>
         <div id="bio">
             <h2>LONNIE ROOT</h2>
             <p>Up until the Spring of 2020 I spent my professional career as a cellist with a wide-ranging background. One week I'd be performing with an orchestra
@@ -17,7 +19,8 @@ export default function About() {
         </div>
         </div>
         
-    </div>
+        
+    
     </>
   )
 }
