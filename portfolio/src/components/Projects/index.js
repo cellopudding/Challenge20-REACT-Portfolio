@@ -14,8 +14,8 @@ export default function Projects() {
     <>
     <div id="work">
       <h1 class="headings">PROJECTS</h1>
+      <h3>Feel free to check out some of my current and most recent projects!</h3>
       <div class="gallery">
-        <div>
         <a href="https://warm-shore-84336.herokuapp.com/" target="_blank" rel="noreferrer">
         <img src={QuizardImage} alt="Quizard"/>
         </a>
@@ -38,7 +38,7 @@ export default function Projects() {
          <img src={ReadMeGenerator} alt="readme"/>
         </a>
         <a href="https://github.com/cellopudding/Challenge18-MongoDB" target="_blank" rel="noreferrer">
-         <img src={SocialMediaMongo} alt="mongo"/>
+         <img src={SocialMediaMongo} alt="mongo"></img> 
         </a>
         
 
@@ -48,7 +48,7 @@ export default function Projects() {
 
 
  </div>
-    </div>
+    {/* </div> */}
     
     </>
   )

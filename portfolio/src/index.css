@@ -19,6 +19,9 @@ body {
 html{
   scroll-behavior: smooth;
 }
+h3 {
+  font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .headings{
   font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 48px;
@@ -61,4 +64,7 @@ html{
 .navbar ul li a:hover{
   background-color: whitesmoke;
   color: black;
+}
+#rootpic {
+  background-color: black;
 }

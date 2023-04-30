@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link, Outlet, useLocation} from "react-router-dom"
-
+import CelloPic from "../../images/CelloPic.png"
 export default function Root() {
     const location = useLocation();
   return (
@@ -35,10 +35,11 @@ export default function Root() {
             </Link>
          </li>
         </ul>
-    </div>
-    <div>
-        <Outlet/>
-    </div>
+        </div>
+  <div>
+    <Outlet/>
+   </div>
+    
     </>
   )
 }
