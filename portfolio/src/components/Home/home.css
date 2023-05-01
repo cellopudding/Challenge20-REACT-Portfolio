@@ -1,0 +1,10 @@
+.cellopic {
+    background-image: url("../../images/CelloPic.png");
+    height: 80vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+  .cellopic h1 {
+    color: #fff;
+  }
