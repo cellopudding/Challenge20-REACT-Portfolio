@@ -6,5 +6,10 @@
     object-fit: cover;
   }
   .cellopic h1 {
-    color: #fff;
+    color: whitesmoke;
+    font-size: 25px;
+    
+  }
+  .cellopic h3{
+    color:whitesmoke;
   }
