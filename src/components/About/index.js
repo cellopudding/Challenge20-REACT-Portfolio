@@ -5,7 +5,7 @@ export default function About() {
   return (
     <>
      <div class="about">
-      
+      {/* here i smy coommnet */}
         <h1 class ="headings">ABOUT ME</h1>
         <div class="aboutmewrapper">
         <img id="pic" src={AboutImage} alt="about me pic"/>
