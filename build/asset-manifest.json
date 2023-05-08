@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Challenge20-REACT-Portfolio/static/css/main.9bfe41f1.css",
+    "main.js": "/Challenge20-REACT-Portfolio/static/js/main.bf5f2825.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Challenge20-REACT-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/BreakingDad.png": "/Challenge20-REACT-Portfolio/static/media/BreakingDad.5867a8cef2ca4122f675.png",
+    "static/media/brand-icons.svg": "/Challenge20-REACT-Portfolio/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/Quizard.png": "/Challenge20-REACT-Portfolio/static/media/Quizard.3c7598246717b60ae412.png",
+    "static/media/icons.svg": "/Challenge20-REACT-Portfolio/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/lonnieaboutme.png": "/Challenge20-REACT-Portfolio/static/media/lonnieaboutme.9402fa0350b61514ed3e.png",
+    "static/media/LonnieResume.png": "/Challenge20-REACT-Portfolio/static/media/LonnieResume.6537777ae79fc12f1d45.png",
+    "static/media/CelloPic.png": "/Challenge20-REACT-Portfolio/static/media/CelloPic.eba9b0a07d6eecd191ff.png",
+    "static/media/ReadMeGenerator.png": "/Challenge20-REACT-Portfolio/static/media/ReadMeGenerator.08304d0f4dadf99e47b7.png",
+    "static/media/outline-icons.svg": "/Challenge20-REACT-Portfolio/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/Challenge20-REACT-Portfolio/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/Challenge20-REACT-Portfolio/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/Challenge20-REACT-Portfolio/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/Challenge20-REACT-Portfolio/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/EmployeeTracker.png": "/Challenge20-REACT-Portfolio/static/media/EmployeeTracker.1c68a05e5cdd5715cf33.png",
+    "static/media/SocialMediaMongo.png": "/Challenge20-REACT-Portfolio/static/media/SocialMediaMongo.c0019a39d102766c7f6b.png",
+    "static/media/Scheduler.png": "/Challenge20-REACT-Portfolio/static/media/Scheduler.9a9f42517c714eea21a4.png",
+    "static/media/brand-icons.woff": "/Challenge20-REACT-Portfolio/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/Challenge20-REACT-Portfolio/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/Challenge20-REACT-Portfolio/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/Challenge20-REACT-Portfolio/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/PasswordGenerator.png": "/Challenge20-REACT-Portfolio/static/media/PasswordGenerator.3ba7f6253f254696fbb1.png",
+    "static/media/outline-icons.eot": "/Challenge20-REACT-Portfolio/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/Challenge20-REACT-Portfolio/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/Challenge20-REACT-Portfolio/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/note-taker.png": "/Challenge20-REACT-Portfolio/static/media/note-taker.dc875f080a7268044df4.png",
+    "static/media/outline-icons.woff": "/Challenge20-REACT-Portfolio/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/Challenge20-REACT-Portfolio/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/Challenge20-REACT-Portfolio/index.html",
+    "main.9bfe41f1.css.map": "/Challenge20-REACT-Portfolio/static/css/main.9bfe41f1.css.map",
+    "main.bf5f2825.js.map": "/Challenge20-REACT-Portfolio/static/js/main.bf5f2825.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Challenge20-REACT-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfe41f1.css",
+    "static/js/main.bf5f2825.js"
+  ]
+}
