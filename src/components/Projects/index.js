@@ -1,5 +1,6 @@
 import React from 'react'
 import "./projects.css"
+import PlantPetaler from "../../images/plant-petaler.png"
 import QuizardImage from "../../images/Quizard.png"
 import BreakingDadImage from "../../images/BreakingDad.png"
 import PasswordImage from "../../images/PasswordGenerator.png"
@@ -22,8 +23,8 @@ export default function Projects() {
         <a href="https://cellopudding.github.io/BreakingDad/" target="_blank" rel="noreferrer">
          <img src={BreakingDadImage} alt="BreakingDad"/>
         </a>
-        <a href="https://cellopudding.github.io/Javascript03-Password-Challenge/" target="_blank" rel="noreferrer">
-         <img src={PasswordImage} alt="passwordgenerator"/> 
+        <a href="https://plant-petaler.herokuapp.com/" target="_blank" rel="noreferrer">
+         <img src={PlantPetaler} alt="passwordgenerator"/> 
         </a>
         <a href="https://github.com/cellopudding/Lets-Take-Notes-Module11-Challenge" target="_blank" rel="noreferrer">
          <img src={NoteTaker} alt="notetaker"/>
