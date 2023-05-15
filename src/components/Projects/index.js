@@ -3,7 +3,7 @@ import "./projects.css"
 import PlantPetaler from "../../images/plant-petaler.png"
 import QuizardImage from "../../images/Quizard.png"
 import BreakingDadImage from "../../images/BreakingDad.png"
-import PasswordImage from "../../images/PasswordGenerator.png"
+
 import NoteTaker from "../../images/note-taker.png"
 import EmployeeTracker from "../../images/EmployeeTracker.png"
 import ReadMeGenerator from "../../images/ReadMeGenerator.png"
