@@ -7,7 +7,7 @@ export default function Home() {
     <div className='cellopic' style={{backgroundImage:`url(${CelloPic})`}}>
       <div>
         <h1>Lonnie Root</h1>
-        <h3>Musican, Developer. Welcome to my page.</h3>
+        <h3>Musican, Full Stack Developer. Welcome to my page.</h3>
       </div>
     </div>
   );
