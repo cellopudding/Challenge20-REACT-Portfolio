@@ -1,5 +1,5 @@
 import React from 'react'
-import ResumeImage from "../../images/LonnieResume.png"
+import ResumeImage from "../../images/my-resume.png"
 import "./resume.css"
 
 export default function Resume() {
