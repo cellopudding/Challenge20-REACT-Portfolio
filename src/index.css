@@ -70,6 +70,7 @@ h3 {
   height: 100%;
   object-fit: contain;
 } */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 * {
   box-sizing: border-box;
 }
@@ -107,6 +108,7 @@ h3 {
   /* position: sticky; */
   top: 0;
   z-index: 999;
+  padding: 0 20px;
 }
 
 .navbar>* {
@@ -125,12 +127,13 @@ h3 {
   font-family: 'Open Sans';
   font-size: 16px;
   font-weight: bold;
+  margin: 0 10px;
 }
 
 .navbar ul li a {
   text-decoration: none;
   color: whitesmoke;
-  padding: 8px 25px;
+  padding: 8px 15px;
   transition: all 0.5s ease;
 }
 
